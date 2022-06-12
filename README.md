@@ -1,3 +1,7 @@
+# Running the robot in Gazebo
+`roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch`
+**Then make sure to send the twist messages to the /cmd_vel topic to make robot move in gazebo**
+
 # TurtleBot3
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
