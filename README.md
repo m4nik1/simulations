@@ -1,5 +1,6 @@
 # Running the robot in Gazebo
 `roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch`
+`export TURTLEBOT3_MODEL=waffle_pi`
 **Then make sure to send the twist messages to the /cmd_vel topic to make robot move in gazebo**
 
 # TurtleBot3
